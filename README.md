@@ -1,6 +1,6 @@
-# 25个国内外ChatGPT镜像网站汇总（2025/03/12）
+# 25个国内外ChatGPT镜像网站汇总（2025/03/15）
 
-> 更新时间：2025年3月12日
+> 更新时间：2025年3月15日
 
 ## Chat GPT是什么
 
@@ -14,7 +14,7 @@ ChatGPT是一个通过大量文本训练出来的聊天机器人，它能够理�
 
 ### 2、使用他人建立的镜像中文网站
 
-✅[songshugpt.com](https://songshugpt.com)-网站稳定运营半年，稳定高效。
+✅[songshugpt.com](https://songshugpt.com)-网站稳定运营半年，稳定高效，支持GPT-4、GPT-o1、GPT-o3、deepseek、grok3。
 
 ①[givemegpt.top](https://givemegpt.top)-注册赠送积分稳定长久
 
